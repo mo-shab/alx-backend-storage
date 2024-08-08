@@ -3,7 +3,7 @@ SELECT
     origin,
     SUM(fans) AS nb_fans
 FROM
-    bands
+    band_name
 GROUP BY
     origin
 ORDER BY
