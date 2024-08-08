@@ -10,7 +10,7 @@ SELECT
         ELSE 0
     END AS lifespan
 FROM
-    bands
+    metal_bands
 WHERE
     style = 'Glam rock'
 ORDER BY
