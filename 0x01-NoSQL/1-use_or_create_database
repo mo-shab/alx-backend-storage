@@ -1,0 +1,2 @@
+// Script that create a mongoDB database
+use my_db;
