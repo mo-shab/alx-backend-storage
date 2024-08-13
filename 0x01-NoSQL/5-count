@@ -1,0 +1,2 @@
+// Script that display the number of element in a collection
+db.school.count();
